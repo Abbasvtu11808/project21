@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+hr{
+  background-color: blue;
+}
+#r{
+  border-radius: 120px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 500px;
+  right: 500px;
+
+}
+#h{
+  position: absolute;
+  left: 560px;
+  right: 500px;
+}
+#p{
+  position: absolute;
+  left: 100px;
+}
+.skills{
+  position: absolute;
+  left: 560px;
+}
+#l{
+  position: absolute;
+  right: 600px;
+}
+.web{
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 520px;
+}
+#la{
+  position: absolute;
+  left: 230px;
+}
+#lu{
+  position: absolute;
+  left: 520px;
+}
+#lulu{
+  position: absolute;
+  left: 180px;
+}
+h2{
+  position: absolute;
+  left: 480px;
+
+}
+#hhh{
+  position: absolute;
+  left: 500px;
+}
+#pp{
+  position: absolute;
+  left: 360px;
+}
+.top {
+
+  width: 1270px;
+  height: 558px;
+  background-color: #00cc66;
+}
+
+#para{
+  position: absolute;
+  left: 570px;
+  top: 140px;
+}
+#fon{
+  font-family: 'Mina', sans-serif;
+  position: absolute;
+  left: 500px;
+}
+#name{
+
+  position: absolute;
+  left: 550px;
+  top: 90px;
+  font-family: 'Pacifico', cursive;
+}
+.btn{
+  position: absolute;
+  left: 585px;
+  background-color: #FFE4C4;
+}
+#downn{
+  position: absolute;
+  left: 560px;
+}
+#top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 320px;
+}
+.bot{
+  background-color: gold;
+  margin-bottom: 0px;
+
+}
+.footer-link1{
+  position: absolute;
+  left: 560px;
+  background-color: #330066;
+}
+.footer-link11{
+  position: absolute;
+  left: 560px;
+  background-color: red;;
+}
+.footer-link111{
+  position: absolute;
+  left: 560px;
+  background-color: #00FF99;
+}
+.mid{
+  background-color: #00FFFF;
+}
+#bottom-cloud{
+  position: absolute;
+    left: 250px;
+    top: 200px;
+
+}
+#down{
+  position: absolute;
+  top: 200px;
+  right: 350px;
+}
